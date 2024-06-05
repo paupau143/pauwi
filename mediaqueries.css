@@ -1,0 +1,13 @@
+@media screen and (max-width: 1200px) {
+    #navbar {
+        display: none;
+    }
+    #pau-nav {
+        display: flex;
+    }
+}
+
+/* Active Class for Menu Links */
+.menu-links.active {
+    max-height: 500px; /* Adjust as necessary */
+}
